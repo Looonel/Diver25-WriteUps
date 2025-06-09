@@ -26,7 +26,7 @@ Wayback Machine didn't return any results which means this website hasn't been d
 
 ---
 
-![Archive.today Results](additional-files/archive-results.jpg)
+![Archive.today Results](additional-files/archive-results.png)
 
 Surely enough, there are snapshots of the website from April 2025. The contact page now has another link that we can press on. Pressing this link will lead us to a Google Document about information regarding the recruitment.
 
